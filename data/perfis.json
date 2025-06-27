@@ -1,0 +1,37 @@
+[
+  {
+    "funcao": "Operador de máquinas",
+    "experiencia": "3 a 5 anos",
+    "escolaridade": "Ensino médio completo",
+    "interesse": "Automação e robótica",
+    "tecnologia": "Mediano",
+    "automacao": "Às vezes",
+    "metodologia": "Equilibrado",
+    "turno": "Noite",
+    "trilha": "Automação Industrial",
+    "cursos": [
+      "Introdução à automação e sensores (presencial noturno)",
+      "NR-12 - Segurança em máquinas e equipamentos (online)",
+      "Controladores Lógicos Programáveis (CLP) nível básico (presencial)",
+      "Robótica aplicada à indústria 4.0 (híbrido)"
+    ],
+    "meta": "Em 6 meses, apto para vaga de Técnico de automação júnior"
+  },
+  {
+    "funcao": "Auxiliar de produção",
+    "experiencia": "6 meses a 2 anos",
+    "escolaridade": "Ensino médio completo",
+    "interesse": "Manutenção e reparos industriais",
+    "tecnologia": "Pouco confortável",
+    "automacao": "Nunca",
+    "metodologia": "100% prático",
+    "turno": "Tarde",
+    "trilha": "Manutenção Industrial Básica",
+    "cursos": [
+      "Fundamentos de manutenção industrial",
+      "Ferramentas e equipamentos básicos",
+      "Segurança em manutenção"
+    ],
+    "meta": "Em 3 meses, apto para promoção a Assistente de Manutenção"
+  }
+]
